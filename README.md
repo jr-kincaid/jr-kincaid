@@ -36,3 +36,7 @@ Hi there, I'm J.R. 👋
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+
+## Stats
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=jr-kincaid)
