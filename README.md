@@ -4,6 +4,6 @@ J.R. Kincaid develops in the Microsoft ecosystem since .NET Framework 2.0. He pr
 
 When he is not coding:
 
-- Devoted player [online](https://www.chess.com/member/webdevdotnet) and over the board (OTB) with the [Russian Chess School](https://www.russianchessschool.com/)
+- Devoted Chess player [online](https://www.chess.com/member/webdevdotnet) and over the board (OTB).Also a student at [Russian Chess School](https://www.russianchessschool.com/)
 - Wellness First Daily - Gym (mostly free weights and stationary bike), Yoga, Meditation
 - Reader on [Good Reads](https://www.goodreads.com/user/show/16728106)
